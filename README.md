@@ -1,1 +1,1 @@
-# Chat-application-in-java
+# Chat-application-with-GUI-in-java
